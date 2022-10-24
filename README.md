@@ -1,5 +1,5 @@
-#Overview of what I have done
-Firstly I have created a dataframe of the required dataset using pandas.
+Overview of what I have done			
+	Firstly I have created a dataframe of the required dataset using pandas.
 Then as a part of preprocessing, I checked for any missing values in the dataset.
 Fortunately, there was none.
 The dataset had columns :'customer_id','credit_score', 'country', 'gender', 'age', 'tenure', 'balance', 'products_number', 'credit_card', 'estimated_salary','churn'.
