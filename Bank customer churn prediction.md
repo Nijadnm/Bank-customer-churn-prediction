@@ -45,6 +45,6 @@ model.fit(xtrain,ytrain)<br />
 preds=model.predict(xvalid)<br />
 
 accuracy = accuracy_score(yvalid, preds)<br />
-print('**',(accuracy))<br />
+print(accuracy)<br />
 
 
