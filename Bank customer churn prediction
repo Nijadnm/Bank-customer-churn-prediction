@@ -1,5 +1,5 @@
 **<h1>Overview of Project.</h1><br />**		
-The aim of the project is to predict whether to predict the customer will leave the bank or not.
+The aim of the project is to predict whether to predict the customer will leave the bank or not.<br />
 Firstly I have created a dataframe of the required dataset using pandas.<br />
 Then as a part of preprocessing, I checked for any missing values in the dataset.<br />
 Fortunately, there was none.<br />
