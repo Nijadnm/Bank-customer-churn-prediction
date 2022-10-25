@@ -10,7 +10,7 @@ From the analysis, I concluded that almost all the columns contributed to the mo
 Then, splitted the data into training and validation set with test size of 0.2.<br />
 For the categorical data, I did Label Encoding for the features ‘country’ and ‘gender’.<br />
 I used XGB classifier model for training the data with training set.<br />
-The model achieved an accuracy of 84.5.<br />
+The model achieved an accuracy of **84.5.**<br />
 <br />
 <br />
 
