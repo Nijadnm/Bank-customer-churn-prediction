@@ -24,7 +24,6 @@ from sklearn.model_selection import train_test_split<br />
 from sklearn.linear_model import LogisticRegression<br />
 from sklearn.metrics import accuracy_score<br />
 
-
 X=pd.read_csv("../input/bank-customer-churn-dataset/Bank Customer Churn Prediction.csv")<br />
 X.info()<br />
 X.isnull().sum()<br />
